@@ -37,7 +37,18 @@
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
+    The team have identified a need among university students for a one stop shop for all
+their purchasing needs. It goes without saying that life is costly, especially as a student
+without a stable source of income, times can get really challenging. We have observed this
+problem within our own District 6 CPUT campus and amongst our peers who have struggled
+acquiring study materials. Another problem we’ve identified is students who have passed and
+are moving onto a new grade year often have difficulties selling their previous year’s study
+materials as they struggle to connect with fellow students looking for these study materials.
+But what if students could help each other through these challenging times by purchasing and
+trading valuables among one another at prices they could never hope to find in stores or other
+sites? This is where we come in. We hope to meet this apparent need by providing a central
+marketplace that’s specifically tailored for students to sell, buy, trade, and even post ads /
+requests for specific items.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
